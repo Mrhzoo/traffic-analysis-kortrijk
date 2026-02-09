@@ -13,11 +13,11 @@ This project analyzes traffic patterns across multiple transportation modes (car
 - **Real-time data collection** from Telraam sensors
 - **Weather integration** (temperature, precipitation, cloud cover, wind speed)
 - **Machine learning forecasting** using Random Forest models
-- **Interactive Streamlit dashboard** with 6 analysis tabs
+- **Interactive Streamlit dashboard** with 7 analysis tabs
 - **Parking scenario simulation** to evaluate policy changes
 - **Anomaly detection** using clustering algorithms
 
-The dashboard processes 3,489+ hours of traffic data from two key streets near Howest Campus, providing 7-day forecasts and comprehensive historical analysis.
+The dashboard processes 3,489+ hours of traffic data from two key streets near Howest Campus, providing  forecasts and comprehensive historical analysis.
 
 ## ✨ Key Features
 
@@ -54,7 +54,6 @@ The dashboard processes 3,489+ hours of traffic data from two key streets near H
 - **Features**: 10 variables (time, weather, calendar, location)
 - **Training Data**: 3,489 hours of traffic data
 - **Evaluation**: MAE and RMSE metrics
-- **Forecast Horizon**: 7 days ahead with hourly granularity
 
 ### Parking Scenarios
 - **Open Parking**: Baseline (current conditions)
@@ -69,9 +68,10 @@ The dashboard processes 3,489+ hours of traffic data from two key streets near H
 1. **Overview**: KPIs, trends, and mode distribution
 2. **Analysis**: Detailed patterns by mode, time, and location
 3. **Weather Impact**: Temperature, precipitation, and conditions analysis
-4. **ML Forecasts**: 7-day predictions with model performance
+4. **ML Forecasts**:predictions with insights
 5. **Parking Scenarios**: Policy impact comparisons
-6. **Clustering**: Traffic pattern groups and anomaly detection
+6. **Raod Block Scenarios**: Impact on a steet on a specifc choosen hours
+7. **Clustering**: Traffic pattern groups and anomaly detection
 
 ## 🌐 Deployment
 
