@@ -45,7 +45,7 @@ The dashboard processes 3,489+ hours of traffic data from two key streets near H
 - **Open-Meteo API**: Hourly weather data for Kortrijk
 - **Calendar Events**: Belgian holidays and Flemish school vacation periods
 
-## 🚀 Quick Start
+
 
 ## 🤖 Machine Learning Models
 
@@ -62,6 +62,9 @@ The dashboard processes 3,489+ hours of traffic data from two key streets near H
 - **Paid Parking**: -20% cars, +20% bikes, +5% pedestrians
 
 ## 📱 Dashboard Tabs
+<img width="1919" height="793" alt="image" src="https://github.com/user-attachments/assets/b8cad977-2edc-4b95-a079-19a4498535c4" />
+
+
 
 1. **Overview**: KPIs, trends, and mode distribution
 2. **Analysis**: Detailed patterns by mode, time, and location
